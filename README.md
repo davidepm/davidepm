@@ -41,7 +41,7 @@ Me interesa construir soluciones prácticas, optimizar procesos y seguir fortale
 
 ### Otras herramientas
 
-![Power BI API](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![API Powerbi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFC400?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 ## 💼 Proyectos destacados
