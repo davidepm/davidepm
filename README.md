@@ -15,7 +15,6 @@ Me interesa construir soluciones prácticas, optimizar procesos y seguir fortale
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
@@ -24,8 +23,6 @@ Me interesa construir soluciones prácticas, optimizar procesos y seguir fortale
 
 ### Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
@@ -34,7 +31,6 @@ Me interesa construir soluciones prácticas, optimizar procesos y seguir fortale
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
 ### Cloud y DevOps
 
@@ -45,8 +41,8 @@ Me interesa construir soluciones prácticas, optimizar procesos y seguir fortale
 
 ### Otras herramientas
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Power BI API](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFC400?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 ## 💼 Proyectos destacados
 
@@ -96,6 +92,6 @@ Seguir desarrollando proyectos full stack, mejorar mis conocimientos en arquitec
 
 ## 📫 Contacto
 
-* LinkedIn: `[Agrega aquí tu LinkedIn]`
-* Email: `[Agrega aquí tu correo]`
-* GitHub: `[Agrega aquí tu usuario de GitHub]`
+* LinkedIn: `[www.linkedin.com/in/david-parrales]`
+* Email: `[davidparrales141@hotmail.com]`
+* GitHub: `[https://github.com/davidepm]`
