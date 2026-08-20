@@ -92,6 +92,6 @@ Seguir desarrollando proyectos full stack, mejorar mis conocimientos en arquitec
 
 ## 📫 Contacto
 
-* LinkedIn: `[www.linkedin.com/in/david-parrales]`
-* Email: `[davidparrales141@hotmail.com]`
-* GitHub: `[https://github.com/davidepm]`
+* LinkedIn: www.linkedin.com/in/david-parrales
+* Email: davidparrales141@hotmail.com
+* GitHub: https://github.com/davidepm
